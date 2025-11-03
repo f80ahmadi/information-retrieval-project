@@ -1,0 +1,17 @@
+[
+  {
+    "id": "text1",
+    "original_text": "Friends, Romans, countrymen, lend me your ears;",
+    "goldstandard": ["friend", "roman", "countryman", "lend", "ear"]
+  },
+  {
+    "id": "text2",
+    "original_text": "John's new U.S.A. laptop is a state-of-the-art device. The price is high, but the quality is amazing!",
+    "goldstandard": ["john", "new", "u.s.a", "laptop", "state", "art", "device", "price", "high", "quality", "amaze"]
+  },
+  {
+    "id": "text3",
+    "original_text": "The authorization for this authorized project is pending. He authorizes payments regularly.",
+    "goldstandard": ["authorize", "authorize", "project", "pend", "authorize", "payment", "regular"]
+  }
+]
